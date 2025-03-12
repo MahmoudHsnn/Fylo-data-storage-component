@@ -132,7 +132,7 @@ main::before {
   border: 1px solid hsl(229, 57%, 11%);
   color: hsl(229, 7%, 55%);
   border-radius: 10px;
-  background-color: hsl(243, 100%, 93%);
+  background-color: white;
   font-size: 12px;
   font-weight: 400;
   display: flex;
@@ -197,6 +197,6 @@ main::before {
     position: absolute;
     bottom: -20px;
     right: 0px;
-    border-color: transparent hsl(243, 100%, 93%) transparent transparent;
+    border-color: transparent white transparent transparent;
   }
 }
